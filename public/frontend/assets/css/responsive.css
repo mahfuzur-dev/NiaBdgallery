@@ -1,0 +1,805 @@
+@media (min-width: 992px) and (max-width: 1199.98px) {
+     /* Header Responsive HTML Start */
+     #header .navbar-nav .nav-item .nav-link {
+          font-size: 14px;
+          font-weight: 400;
+          color: #282F37;
+          cursor: pointer;
+          border-bottom: 1px solid #ffffff00;
+          transition: all .4s ease-in-out;
+     }
+     .navbar-brand {
+          margin-right: 0px;
+     }
+     #header .navbar .navbar-brand img {
+          width: 80%;
+     }
+     #header .navbar-nav .nav-item {
+          margin-right: 0px;
+     }
+     #header .nav-right ul li {
+          margin-right: 15px;
+     }
+     .navbar-nav.me-3 {
+          margin-right: 10px !important;
+     }
+     #header .nav-right ul li a {
+          font-size: 18px;
+     }
+     /* Header Responsive HTML End */
+
+     /* Cart Responsive HTML Start */
+     #cart .cart_details table tr th {
+          font-size: 18px;
+          font-weight: 400;
+     }
+     #cart .coupon_box {
+          display: inline-block;
+          margin-left: 70px;
+     }
+     /* Cart Responsive HTML End */
+
+     /* Shop Grid Responsive HTML Start */
+     .price-input .separator {
+          width: 40px;
+          font-size: 16px;
+     }
+     .field input {
+          font-size: 15px;
+     }
+     /* Shop Grid Responsive HTML End */
+
+     
+ }
+@media (min-width: 768px) and (max-width: 991.98px) { 
+     /* Header Responsive HTML Start */
+     #header {
+          position: relative;
+     }
+     #header .navbar .navbar-brand img {
+          width: 90%;
+          padding-left: 20px;
+     }
+     .navbar-toggler {
+          border: none;
+          border-radius: none;
+     }
+     .navbar-toggler:focus {
+          text-decoration: none;
+          outline: 0;
+          box-shadow: none;
+     }
+     .navbar-collapse {
+          padding: 10px;
+          background: rgba(254, 110, 146, 0.3);
+     }
+     #header .navbar-nav .nav-item {
+          margin-right: 5px;
+          line-height: 24px;
+     }
+     #header .search_box input {
+          display: none;
+     }
+     #header .search_box i {
+          display: none;
+     }
+     .nav-right.ms-auto {
+          position: absolute;
+          top: 36px;
+          left: 50%;
+          transform: translateX(-50%);
+     }
+     .offcanvas.offcanvas-end {
+          border-left: none;;
+     }
+     #header .sub_total .sub_text {
+          margin-right: 130px;
+     }
+     #header .nav_button .checkout {
+          font-size: 14px;
+          padding: 16px 20px;
+     }
+     /* Header Responsive HTML End */
+     /* Banner Responsive HTML Start */
+     #banner .banner_left h2 {
+          font-size: 25px;
+          font-weight: 500;
+          padding-top: 15px;
+          line-height: 34px;
+     }
+     /* Banner Responsive HTML End */
+     /* Client Responsive HTML Start */
+     #client .client_box {
+          padding: 30px 50px;
+     }
+     /* Client Responsive HTML End */
+
+     /* Cart Responsive HTML Start */
+     #cart .cart_total {
+          border-left: none;
+          padding-left: 0;
+          margin-top: 20px;
+     }
+     /* Cart Responsive HTML End */
+
+     /* Contact Details HTML Start */
+     #contact_details .maps iframe {
+          margin-bottom: 20px;
+     }
+     /* Contact Details HTML End */
+
+     /* Shop Grid Responsive HTML Start */
+     .price-input .separator {
+          width: 40px;
+          font-size: 16px;
+     }
+     .field input {
+          font-size: 15px;
+     }
+     /* Shop Grid Responsive HTML End */
+
+     /* Default Service Responsive HTML Start */
+     #default_service .sevice_box {
+          margin-bottom: 20px;
+     }
+     .service_text {
+          text-align: center;
+     }
+     /* Default Service Responsive HTML End */
+     /* Footer Responsive HTML Start */
+     #footer .footer_text {
+          padding-left: 10px;
+          text-align: left;
+     }
+     #footer .footer_text .footer_social ul li a {
+          text-align: center;
+     }
+     #footer .footer_text ul {
+          margin-top: 10px;
+     }
+     /* Footer Responsive HTML End */
+     /* Footer-Bottom Responsive HTML Start */
+     #footer_bottom .footer_bottom_left p {
+          font-size: 12px;
+          font-weight: 300;
+          color: #7c7c7c;
+          line-height: 20px;
+     }
+     #footer_bottom .footer_right_payment {
+          text-align: left;
+     }
+     /* Footer-Bottom Responsive HTML End */
+ }
+@media (min-width: 576px) and (max-width: 767.98px) { 
+     /* Header Responsive HTML Start */
+     #header {
+          position: relative;
+     }
+     #header .navbar .navbar-brand img {
+          width: 90%;
+          padding-left: 20px;
+     }
+     .navbar-toggler {
+          border: none;
+          border-radius: none;
+     }
+     .navbar-toggler:focus {
+          text-decoration: none;
+          outline: 0;
+          box-shadow: none;
+     }
+     .navbar-collapse {
+          padding: 10px;
+          background: rgba(254, 110, 146, 0.3);
+     }
+     #header .navbar-nav .nav-item {
+          margin-right: 5px;
+          line-height: 24px;
+     }
+     #header .search_box input {
+          display: none;
+     }
+     #header .search_box i {
+          display: none;
+     }
+     .nav-right.ms-auto {
+          position: absolute;
+          top: 36px;
+          left: 50%;
+          transform: translateX(-50%);
+     }
+     .offcanvas.offcanvas-end {
+          border-left: none;;
+     }
+     #header .sub_total .sub_text {
+          margin-right: 130px;
+     }
+     #header .nav_button .checkout {
+          font-size: 14px;
+          padding: 16px 20px;
+     }
+     /* Header Responsive HTML End */
+     /* Counter Responsive HTML Start */
+     #counter .counter_box h4 {
+          font-size: 14px;
+          font-weight: 300;
+          line-height: 24px;
+     }
+     /* Counter Responsive HTML End */
+
+     /* Product Details HTML Start */
+     #product_details .product_small {
+          margin-bottom: 30px;
+     }
+     #product_details .product_text .product_name h2 {
+          line-height: 26px;
+     }
+     #product_details .product_text label {
+          margin-top: 10px;
+     }
+     #product_details .product_text .quantity button {
+          padding: 2px 10px;
+     }
+     #product_details .product_text .quantity input {
+          padding: 2px;
+     }
+     #product_details .product_text .cart .add_cart {
+          margin-top: 15px;
+          padding: 6px 6px;
+          transition: all .4s ease-in-out;
+          margin-right: 0px;
+     }
+     .tab {
+          margin-top: 30px;
+          margin-bottom: 0px;
+     }
+     .tab button {
+          padding: 7px 6px;
+          transition: all .4s ease-in-out;
+          font-size: 14px;
+          font-weight: 300;
+          color: #fff;
+          text-transform: uppercase;
+          border-radius: 5px 5px 0px 0px;
+     }
+     .tabcontent {
+          margin-top: 0px;
+          padding-left: 10px;
+     }
+     .tabcontent h3 {
+          font-size: 14px;
+          line-height: 24px;
+     }
+     .product_review .review_img {
+          width: 70px;
+          height: 70px;
+     }
+     .review_text {
+          margin-top: 50px;
+          margin-left: 0px;
+          margin-bottom: 0px;
+     }
+     .write_review_part input {
+          padding: 8px;
+          width: 100%;
+     }
+     .write_review_part textarea {
+          min-height: 150px;
+          width: 100%;
+     }
+     /* Product Details HTML End */
+
+      /* Product Cart HTML Start */
+     #cart .cart_details{
+          overflow: hidden;
+     }
+     #cart .cart_details table{
+          overflow-x: auto;
+     }
+     #cart .cart_details table tr td.product_img img {
+          width: 60px;
+          height: 60px;
+     }
+     #cart .cart_details table tr td.product_img h3 {
+          font-weight: 400;
+          line-height: 16px;
+     }
+     #cart .cart_details table tr td.product_price {
+          font-size: 14px;
+          font-weight: 400;
+     }
+     #cart .cart_details table tr td.product_quantity button {
+          font-size: 14px;
+          font-weight: 400;
+          padding: 7px 10px;
+          margin-top: 28px;
+     }
+     #cart .cart_details table tr td.product_quantity input {
+          width: 30px;
+          padding: 3px;
+     }
+     #cart .cart_details table tr td.product_sub {
+          font-size: 14px;
+          font-weight: 400;
+          color: #282F37;
+          line-height: 100px;
+     }
+     #cart .cart_details table tr th {
+          font-size: 18px;
+          font-weight: 400;
+     }
+     #cart .cart_update button {
+          padding: 6px 20px;
+     }
+     #cart .coupon_box {
+          display: inline-block;
+          margin-left: 0px;
+          margin-top: 10px;
+     }
+     #cart .coupon_box input, input:focus-visible, input:focus {
+          padding: 10px;
+          width: 74%;
+     }
+     #cart .coupon_box .coupon_btn {
+          padding: 11px 10px;
+          border-radius: 0px 5px 5px 0px;
+          transition: all .4s ease-in-out;
+          font-size: 15px;
+          margin-left: -4px;
+     }
+     #cart .cart_total {
+          border-left: none;
+          margin-top: 20px;
+          padding-left: 0;
+     }
+     /* Product Cart HTML End */
+
+     /* Contact Details HTML Start */
+     #contact_details .maps iframe {
+          margin-bottom: 20px;
+     }
+     /* Contact Details HTML End */
+
+     /* Blog Responsive HTML Start */
+     #blog .blog_box {
+          height: 300px;
+     }
+     #blog .blog_text {
+          padding-left: 0px;
+          margin-bottom: 15px;
+     }
+     #blog .blog_text p {
+          font-size: 14px;
+          font-weight: 300;
+          padding-top: 15px;
+          line-height: 20px;
+     }
+     /* Blog Responsive HTML End */
+     /* Client Responsive HTML Start */
+     #client .client_box {
+          background: rgba(255, 255, 255, 0.9);
+          padding: 15px 20px;
+     }
+     /* Client Responsive HTML End */
+     /* Default Service Responsive HTML Start */
+     #default_service .sevice_box {
+          margin-bottom: 20px;
+     }
+     #default_service .service_text {
+          text-align: center;
+     }
+     /* Default Service Responsive HTML End */
+     /* Footer Responsive HTML Start */
+     #footer {
+          padding: 30px 0;
+     }
+     #footer .footer_text {
+          padding-left: 10px;
+          text-align: left;
+     }
+     #footer .footer_text .footer_social ul li a {
+          text-align: center;
+     }
+     #footer .footer_text ul {
+          margin-top: 20px;
+     }
+     #footer .footer_text h3 {
+          padding-top: 21px;
+     }
+     /* Footer Responsive HTML End */
+     /* Footer-Bottom Responsive HTML Start */
+     #footer_bottom .footer_bottom_left p {
+          font-size: 12px;
+          font-weight: 200;
+          color: #7c7c7c;
+          line-height: 16px;
+     }
+     #footer_bottom .footer_right_payment {
+          text-align: left;
+     }
+     #footer_bottom .footer_right_payment ul li a img {
+          width: 26px;
+          height: 30px;
+          line-height: 20px;
+     }
+     /* Footer-Bottom Responsive HTML End */
+ }
+@media (min-width: 320px) and (max-width: 575.98px) { 
+     /* Header Responsive HTML Start */
+     #header {
+          position: relative;
+     }
+     #header .navbar .navbar-brand img {
+          width: 90%;
+          padding-left: 20px;
+     }
+     .navbar-toggler {
+          border: none;
+          border-radius: none;
+     }
+     .navbar-toggler:focus {
+          text-decoration: none;
+          outline: 0;
+          box-shadow: none;
+     }
+     .navbar-collapse {
+          padding: 10px;
+          background: rgba(254, 110, 146, 0.3);
+     }
+     #header .navbar-nav .nav-item {
+          margin-right: 5px;
+          line-height: 24px;
+     }
+     #header .search_box input {
+          display: none;
+     }
+     #header .search_box i {
+          display: none;
+     }
+     .nav-right.ms-auto {
+          position: absolute;
+          top: 36px;
+          left: 50%;
+          transform: translateX(-50%);
+     }
+     .offcanvas.offcanvas-end {
+          border-left: none;;
+     }
+     #header .sub_total .sub_text {
+          margin-right: 130px;
+     }
+     #header .nav_button .checkout {
+          font-size: 14px;
+          padding: 16px 20px;
+     }
+     /* Header Responsive HTML End */
+     /* Banner Responsive HTML Start */
+     #banner {
+          padding-left: 20px;
+     }
+     #banner .banner_left span {
+          font-size: 18px;
+     }
+     #banner .banner_left h2 {
+          font-size: 22px;
+          color: #282F37;
+          font-weight: 600;
+          padding-top: 12px;
+          line-height: 30px;
+     }
+     /* Banner Responsive HTML End */
+     /* Category Responsive HTML Start */
+     #category {
+          padding: 20px 0px;
+     }
+     #category .caregory_box {
+          margin-left: 15px;
+     }
+     #category .caregory_box .category_img .category_overlay a {
+          font-size: 14px;
+          line-height: 152px;
+     }
+     /* Category Responsive HTML End */
+     /* Product Responsive HTML Start */
+     #product {
+          padding: 20px 0;
+     }
+     .latest_product h3 {
+          font-size: 22px;
+     }
+     .latest_product p {
+          font-size: 14px;
+          line-height: 20px;
+     }
+     /* Product Responsive HTML End */
+     /* Offer Responsive HTML Start */
+     #offer {
+          padding: 25px 0;
+     }
+     #offer .offer_box h3 {
+          font-size: 25px;
+          line-height: 30px;
+          padding-top: 15px;
+     }
+     /* Offer Responsive HTML End */
+     /* Counter Responsive HTML Start */
+     #counter {
+          padding: 30px 0;
+     }
+     #counter .counter_box {
+          margin-bottom: 15px;
+     }
+     /* Counter Responsive HTML End */
+     /* Blog Responsive HTML Start */
+     #blog {
+          padding: 30px 0;
+     }
+     #blog .blog_box {
+          height: 330px;
+     }
+     #blog .blog_text {
+          padding-left: 10px;
+          margin-top: 22px;
+     }
+     #blog .blog_text h3 {
+          font-size: 24px;
+          padding-top: 20px;
+     }
+     #blog .blog_text p {
+          font-size: 14px;
+          font-weight: 300;
+          padding-top: 15px;
+          line-height: 22px;
+     }
+     /* Blog Responsive HTML End */
+     /* Client Responsive HTML Start */
+     #client {
+          padding: 10px 0;
+     }
+     #client .client_box {
+          padding: 20px 16px;
+     }
+     #client .client_box h3 {
+          font-size: 18px;
+          padding: 15px 0;
+     }
+     #client .client_box p {
+          font-size: 14px;
+          font-weight: 300;
+          padding: 10px 0;
+          line-height: 22px;
+     }
+     /* Client Responsive HTML End */
+     /* Contact Responsive HTML Start */
+     #contact {
+          padding: 25px 0;
+     }
+     #contact .contact_head h3 {
+          font-size: 25px;
+          font-weight: 600;
+          padding: 15px 0;
+     }
+     #contact .contact_box label {
+          font-size: 14px;
+          font-weight: 300;
+     }
+     /* Contact Responsive HTML End */
+
+     /* Product Details HTML Start */
+     #product_details .product_small {
+          margin-bottom: 30px;
+     }
+     #product_details .product_text .product_name h2 {
+          line-height: 26px;
+     }
+     #product_details .product_text label {
+          margin-top: 10px;
+     }
+     #product_details .product_text .quantity button {
+          padding: 2px 10px;
+     }
+     #product_details .product_text .quantity input {
+          padding: 2px;
+     }
+     #product_details .product_text .cart .add_cart {
+          margin-top: 15px;
+          padding: 6px 6px;
+          transition: all .4s ease-in-out;
+          margin-right: 0px;
+     }
+     .tab {
+          margin-top: 30px;
+          margin-bottom: 0px;
+     }
+     .tab button {
+          padding: 7px 6px;
+          transition: all .4s ease-in-out;
+          font-size: 10px;
+          font-weight: 300;
+          color: #fff;
+          text-transform: uppercase;
+          border-radius: 5px 5px 0px 0px;
+     }
+     .tabcontent {
+          margin-top: 0px;
+          padding-left: 10px;
+     }
+     .tabcontent h3 {
+          font-size: 14px;
+          line-height: 24px;
+     }
+     .product_review .review_img {
+          width: 70px;
+          height: 70px;
+     }
+     .review_text {
+          margin-top: 0px;
+          margin-left: 20px;
+          margin-bottom: 10px;
+     }
+     .write_review_part input {
+          padding: 8px;
+          width: 100%;
+     }
+     .write_review_part textarea {
+          min-height: 150px;
+          width: 100%;
+     }
+     /* Product Details HTML End */
+
+     /* Product Cart HTML Start */
+     #cart .cart_details{
+          overflow: hidden;
+     }
+     #cart .cart_details table{
+          overflow-x: auto;
+     }
+     #cart .cart_details table tr td.product_img img {
+          width: 60px;
+          height: 60px;
+     }
+     #cart .cart_details table tr td.product_img h3 {
+          font-weight: 400;
+          line-height: 16px;
+     }
+     #cart .cart_details table tr td.product_price {
+          font-size: 14px;
+          font-weight: 400;
+     }
+     #cart .cart_details table tr td.product_quantity button {
+          font-size: 14px;
+          font-weight: 400;
+          padding: 7px 10px;
+          margin-top: 28px;
+     }
+     #cart .cart_details table tr td.product_quantity input {
+          width: 30px;
+          padding: 3px;
+     }
+     #cart .cart_details table tr td.product_sub {
+          font-size: 14px;
+          font-weight: 400;
+          color: #282F37;
+          line-height: 100px;
+     }
+     #cart .cart_details table tr th {
+          font-size: 23px;
+          font-weight: 400;
+     }
+     #cart .cart_update button {
+          padding: 6px 20px;
+     }
+     #cart .coupon_box {
+          display: inline-block;
+          margin-left: 0px;
+          margin-top: 10px;
+     }
+     #cart .coupon_box input, input:focus-visible, input:focus {
+          padding: 9px;
+          width: 75%;
+     }
+     #cart .coupon_box .coupon_btn {
+          padding: 11px 10px;
+          border-radius: 0px 5px 5px 0px;
+          transition: all .4s ease-in-out;
+          font-size: 14px;
+          margin-left: -4px;
+     }
+     #cart .cart_total {
+          border-left: none;
+          margin-top: 20px;
+          padding-left: 0;
+     }
+     /* Product Cart HTML End */
+
+     /* Shop Grid HTML Start */
+     #shop_grid .shop_grid_left {
+          margin-bottom: 20px;
+     }
+     .shop_nav_icon {
+          text-align: center;
+          margin-bottom: 10px;
+     }
+     .price-input .separator {
+          width: 50px;
+          font-size: 17px;
+     }
+     .field input {
+          font-size: 16px;
+     }
+     /* Shop Grid HTML End */
+
+     /* Wishlist HTML Start */
+     
+     /* Wishlist HTML End */
+
+     /* Error HTML Start */
+     #error .error_box h1 {
+          font-size: 100px;
+     }
+     /* Error HTML End */
+
+     /* Account HTML Start */
+     #account #accounts .account_box form i#toggleoldPassword {
+          top: 66%;
+     }
+     #account #accounts .account_box form i#togglenewPassword {
+          top: 80%;
+     }
+     .form-control {
+          font-size: 14px;
+     }
+     .form-control:focus {
+          width: 100%;
+     }
+     #account #dashboard .dashboar_box h3 {
+          font-size: 19px;
+     }
+     /* Account HTML End */
+
+     /* Contact_detail HTML Start */
+     #contact_details .maps iframe {
+          height: 300px;
+          margin-bottom: 20px;
+     }
+     /* Contact_detail HTML End */
+
+     /* Default Service Responsive HTML Start */
+     #default_service .sevice_box {
+          margin-bottom: 15px;
+     }
+     .service_text {
+          text-align: center;
+          padding: 10px 0;
+     }
+     /* Default Service Responsive HTML End */
+     /* Footer Responsive HTML Start */
+     #footer {
+          padding: 30px 0;
+     }
+     #footer .footer_text {
+          text-align: left;
+     }
+     #footer .footer_address h5 {
+          padding: 0px;
+     }
+     #footer .footer_text ul {
+          margin-top: 20px;
+     }
+     #footer .footer_text .footer_social ul li a {
+          text-align: center;
+     }
+     #footer .footer_text h3 {
+          padding-top: 30px;
+     }
+     #footer .footer_text ul li {
+          margin-bottom: 6px;
+     }
+     /* Footer Responsive HTML End */
+     /* Footer-Bottom Responsive HTML Start */
+     #footer_bottom .footer_right_payment {
+          text-align: center;
+          padding: 10px;
+     }
+     /* Footer-Bottom Responsive HTML End */
+ }
